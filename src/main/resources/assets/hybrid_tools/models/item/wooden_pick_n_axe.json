@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "hybrid_tools:item/wooden_pick_n_axe"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type" : "minecraft:model",
+    "model": "hybrid_tools:item/wooden_pick_n_axe"
+  }
+}
